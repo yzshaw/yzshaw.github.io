@@ -4,7 +4,7 @@
   <title><![CDATA[Fighting]]></title>
   <link href="http://yzshaw.github.io/atom.xml" rel="self"/>
   <link href="http://yzshaw.github.io/"/>
-  <updated>2014-06-09T16:33:30+08:00</updated>
+  <updated>2014-06-09T18:40:28+08:00</updated>
   <id>http://yzshaw.github.io/</id>
   <author>
     <name><![CDATA[Njust_liujian]]></name>
@@ -14,11 +14,23 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://yzshaw.github.io/blog/2014/06/09/hello-world/"/>
-    <updated>2014-06-09T15:00:08+08:00</updated>
-    <id>http://yzshaw.github.io/blog/2014/06/09/hello-world</id>
-    <content type="html"><![CDATA[
+    <title type="html"><![CDATA[Hi Octopress]]></title>
+    <link href="http://yzshaw.github.io/blog/2014/06/09/hi-octopress/"/>
+    <updated>2014-06-09T00:00:00+08:00</updated>
+    <id>http://yzshaw.github.io/blog/2014/06/09/hi-octopress</id>
+    <content type="html"><![CDATA[<p>﻿Date: 2014-06-09 15:00:08</p>
+
+<p><img class="center" src="http://yzshaw.github.io/images/2014/hi.jpg"><br></p>
+
+<!---more--->
+
+
+<p>经过两天的摸索，在Github上搭建了这么个博客，搭建过程还是遇到了各种bug，总的感觉：<br>
+1.看<a href="http://octopress.org/docs/">官方文档</a>,英文就英文，少走弯路；<br>
+2.repository的创建应该是xxxx.github.io,与xxxxgithub.com有区别；<br>
+3.遇到各种bug，一步步Google吧~<br>
+这就是我搭的过程中的一些体会吧。<br>
+以后我也会坚持在这里，做我学习上的一些小结！</p>
 ]]></content>
   </entry>
   
